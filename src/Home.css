@@ -1,0 +1,8 @@
+* {
+    margin: 0;
+}
+.home_section {
+    display: flex;
+    padding: 30px;
+
+}
