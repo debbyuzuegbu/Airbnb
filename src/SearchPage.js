@@ -25,22 +25,21 @@ function SearchPage() {
         price="$30 / night"
         total="$117 total"/>
         <SearchResult 
-        img="https://www.smarterravel.com/uploads/2017/07/Untitled-design-8.jpg"
-        location=""
+        img="https://www.expatkings.com/wp-content/uploads/2018/10/Airbnb-rental-tips.-Hostmaker-1-620x349.jpg"
+        location="Private room in center of London"
         title="Independent luxury studio apartment"
         description="2 guest . 3 .bedroom . 1 bed . 1.5 shared bathrooms . Wifi . Kitchen"
-        price=""
-        total=""/>
+        star={5.00}
+        price="$50 / night"
+        total="$150 total"/>
         <SearchResult 
-        img=""
-        location=""
-        title=""
-        description=""
-        price=""
-        total=""/>
+        img="https://www.expatkings.com/wp-content/uploads/2018/10/Airbnb-rental-tips.-Hostmaker-1-620x349.jpg"
+        location="Private room in center of London"
+        title="Luxury studio apartment"
+        description="2 guest . 3 .bedroom . 1 bed . 1.5 shared bathrooms . Wifi .2 Kitchens"
+        price="$80 / night"
+        total="$160 total"/>
     </div>
-    
-
   )
 }
 
